@@ -1,4 +1,4 @@
 # RockPaperScissors
-My practice to learn Scala on Android
+My practice App to learn Scala on Android
 
-![App screenshot](https://github.com/b0npu/RockPaperScissors/blob/graphicimages/rsp.gif)
+![screenshot](https://github.com/b0npu/RockPaperScissors/blob/graphicimages/rsp.gif)
