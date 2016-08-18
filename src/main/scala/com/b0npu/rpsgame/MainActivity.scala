@@ -12,6 +12,7 @@ class MainActivity extends AppCompatActivity with TypedFindView {
     * フィールドの定義
     *
     * widgetのidを格納する変数とじゃんけんで使う変数を定義する
+    * じゃんけんで使う変数は変更しないのでvalで定義
     */
   var rockButton: ImageButton = _
   var scissorButton: ImageButton = _
