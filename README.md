@@ -5,4 +5,4 @@ My practice App to learn Scala on Android
 ![screenshot](https://github.com/b0npu/RockPaperScissors/blob/graphicimages/rsp.gif)
 
 ## For more information
-See [My Blog](http://b0npu.hatenablog.com/entry/2016/08/07/023000)
+Please read [my blog](http://b0npu.hatenablog.com/entry/2016/08/07/023000)
